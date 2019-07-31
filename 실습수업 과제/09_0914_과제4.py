@@ -1,0 +1,22 @@
+import turtle
+t = turtle.Turtle()
+t.shape("turtle")
+
+
+t.circle(100)
+t.up()
+t.goto(-170,0)
+t.down()
+t.circle(100)
+t.up()
+t.goto(170,0)
+t.down()
+t.circle(100)
+t.up()
+t.goto(85,-145)
+t.down()
+t.circle(100)
+t.up()
+t.goto(-85,-145)
+t.down()
+t.circle(100)

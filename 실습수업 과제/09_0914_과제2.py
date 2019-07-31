@@ -1,0 +1,17 @@
+import turtle
+t = turtle.Turtle()
+t.shape("turtle")
+
+t.pensize(10)
+t.pencolor('red')
+t.fd(100)
+t.right(60)
+t.fd(100)
+t.right(60)
+t.fd(100)
+t.right(60)
+t.fd(100)
+t.right(60)
+t.fd(100)
+t.right(60)
+t.fd(100)
